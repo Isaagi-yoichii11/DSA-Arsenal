@@ -1,1 +1,1 @@
-# DSA Arsernal
+# Dynamic Programming
